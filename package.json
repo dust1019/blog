@@ -29,6 +29,6 @@
     "hexo-theme-redefine": "^2.1.0",
     "hexo-wordcount": "^6.0.1",
     "sftp-sync-deploy": "^0.7.1",
-    "ssh2": "^1.11.0"
+    "ssh2": "^1.14.0"
   }
 }
